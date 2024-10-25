@@ -1,4 +1,4 @@
-phrase;destination;départ
+phrase;destination;départ;étapes
 Je veux aller à la mairie de strasbourg depuis Paris;strasbourg;paris
 Je veux aller depuis Paris à la mairie de strasbourg;strasbourg;paris
 Comment puis-je me rendre à Vitry sur seine depuis ma maison à Lyon;vitry-sur-seine;lyon
@@ -25,3 +25,6 @@ Je souhaite faire strasbourg - paris;paris;strasbourg
 J'aimerais retourner à Paris, je suis à strasbourg actuellement;paris;strasbourg
 Je retourne à Paris, je suis à strasbourg;paris;strasbourg
 Je suis à strasbourg et je retourne à paris;paris;strasbourg
+Je veux passer par Lyon pour aller à Strasbourg en partant de Paris;strasbourg;paris;lyon
+Je veux aller à Paris en partant de Strasbourg et en passant par Dijon;paris;strasbourg;dijon
+Je veux aller à Paris en partant de Strasbourg et en passant par Dijon et Bordeaux;paris;strasbourg;dijon,bordeaux
