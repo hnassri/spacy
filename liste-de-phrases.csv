@@ -1,30 +1,42 @@
-phrase;destination;départ;étapes
-Je veux aller à la mairie de strasbourg depuis Paris;strasbourg;paris
-Je veux aller depuis Paris à la mairie de strasbourg;strasbourg;paris
-Comment puis-je me rendre à Vitry sur seine depuis ma maison à Lyon;vitry-sur-seine;lyon
-J'aimerais me rendre à l'hermitage depuis la gare de Niederbronn-les-bains;l'hermitage;niederbronn-les-bains
-J'aimerais quitter la ville de Strasbourg pour aller chez mes grands-parents à Nice;nice;strasbourg
-J'aimerais quitter la ville de Strasbourg pour aller rejoindre mes amis à Nice;nice;strasbourg
-Je veux me barrer de chez moi pour aller au sud vers Bordeaux. Comment je peux m'y rendre depuis Haguenau ?;bordeaux;haguenau
-Je veux me barrer de chez moi pour aller au sud vers Bordeaux. Comment je peux m'y rendre depuis Haguenau?;bordeaux;haguenau
-Je souhaite visiter Paris, peux tu m'indiquer le chemin depuis Strasbourg ?;paris;strasbourg
-Pendant mon séjour à Paris, j'aimerais visiter Neuilly-Sur-Marne. Peux tu me trouver un itinéraire ?;neuilly-sur-marne;paris
-À partir de Strasbourg, je souhaite aller à Paris.;paris;strasbourg
-À partir de Strasbourg, je souhaite participer à un évènement sur Paris.;paris;strasbourg
-Je suis sur Strasbourg et je souhaite aller sur Paris.;paris;strasbourg
-Je suis sur Strasbourg et je souhaite participer à un évènement sur Paris.;paris;strasbourg
-De strasbourg à Paris;paris;strasbourg
-De strasbourg à Paris, trouve moi le meilleur itinéraire!;paris;strasbourg
-Strasbourg paris;paris;strasbourg
-Je souhaite visiter un musée de Paris, je pars de strasbourg;paris;strasbourg
-Je vais visiter un musée de paris, je pars de strasbourg;paris;strasbourg
-je pars de strasbourg, je vais visiter un musée de paris;paris;strasbourg
-Je me barre de strasbourg pour aller à Paris;paris;strasbourg
-Je vais de Strasbourg à Paris;paris;strasbourg
-Je souhaite faire strasbourg - paris;paris;strasbourg
-J'aimerais retourner à Paris, je suis à strasbourg actuellement;paris;strasbourg
-Je retourne à Paris, je suis à strasbourg;paris;strasbourg
-Je suis à strasbourg et je retourne à paris;paris;strasbourg
-Je veux passer par Lyon pour aller à Strasbourg en partant de Paris;strasbourg;paris;lyon
-Je veux aller à Paris en partant de Strasbourg et en passant par Dijon;paris;strasbourg;dijon
-Je veux aller à Paris en partant de Strasbourg et en passant par Dijon et Bordeaux;paris;strasbourg;dijon,bordeaux
+phrase;destination;départ;étapes;validité
+Je veux aller à la mairie de strasbourg depuis Paris;strasbourg;paris;;oui
+Je veux aller depuis Paris à la mairie de strasbourg;strasbourg;paris;;oui
+Comment puis-je me rendre à Vitry sur seine depuis ma maison à Lyon;vitry-sur-seine;lyon;;oui
+J'aimerais me rendre à l'hermitage depuis la gare de Niederbronn-les-bains;l'hermitage;niederbronn-les-bains;;oui
+J'aimerais quitter la ville de Strasbourg pour aller chez mes grands-parents à Nice;nice;strasbourg;;oui
+J'aimerais quitter la ville de Strasbourg pour aller rejoindre mes amis à Nice;nice;strasbourg;;oui
+Je veux me barrer de chez moi pour aller au sud vers Bordeaux. Comment je peux m'y rendre depuis Haguenau ?;bordeaux;haguenau;;oui
+Je veux me barrer de chez moi pour aller au sud vers Bordeaux. Comment je peux m'y rendre depuis Haguenau?;bordeaux;haguenau;;oui
+Je souhaite visiter Paris, peux tu m'indiquer le chemin depuis Strasbourg ?;paris;strasbourg;;oui
+Pendant mon séjour à Paris, j'aimerais visiter Sains-du-Nord. Peux tu me trouver un itinéraire ?;sains-du-nord;paris;;oui
+À partir de Strasbourg, je souhaite aller à Paris.;paris;strasbourg;;oui
+À partir de Strasbourg, je souhaite participer à un évènement sur Paris.;paris;strasbourg;;oui
+Je suis sur Strasbourg et je souhaite aller sur Paris.;paris;strasbourg;;oui
+Je suis sur Strasbourg et je souhaite participer à un évènement sur Paris.;paris;strasbourg;;oui
+De strasbourg à Paris;paris;strasbourg;;oui
+De strasbourg à Paris, trouve moi le meilleur itinéraire!;paris;strasbourg;;oui
+Strasbourg paris;paris;strasbourg;;oui
+Je souhaite visiter un musée de Paris, je pars de strasbourg;paris;strasbourg;;oui
+Je vais visiter un musée de paris, je pars de strasbourg;paris;strasbourg;;oui
+je pars de strasbourg, je vais visiter un musée de paris;paris;strasbourg;;oui
+Je me barre de strasbourg pour aller à Paris;paris;strasbourg;;oui
+Je vais de Strasbourg à Paris;paris;strasbourg;;oui
+Je souhaite faire strasbourg - paris;paris;strasbourg;;oui
+J'aimerais retourner à Paris, je suis à strasbourg actuellement;paris;strasbourg;;oui
+Je retourne à Paris, je suis à strasbourg;paris;strasbourg;;oui
+Je suis à strasbourg et je retourne à paris;paris;strasbourg;;oui
+Je veux passer par Lyon pour aller à Strasbourg en partant de Paris;strasbourg;paris;lyon;oui
+Je veux aller à Paris en partant de Strasbourg et en passant par Dijon;paris;strasbourg;dijon;oui
+Je veux aller à Paris en partant de Strasbourg et en passant par Dijon et Bordeaux;paris;strasbourg;dijon,bordeaux;oui
+Strasbourg j'irai, de Paris je partirai;strasbourg;paris;;oui
+Strasbourg j'irai, de Paris je partirai, par Lyon je passerai;strasbourg;paris;lyon;oui
+Via Lyon, j'aimerais partir à strasbourg depuis Paris;strasbourg;paris;lyon;oui
+En passant par Lyon, j'aimerais partir à strasbourg depuis Paris;strasbourg;paris;lyon;oui
+En passant par Lyon et bordeaux, j'aimerais partir à strasbourg depuis Paris;strasbourg;paris;lyon,bordeaux;oui
+En passant par Lyon puis bordeaux, j'aimerais partir à strasbourg depuis Paris;strasbourg;paris;lyon,bordeaux;oui
+De strasbourg à Paris via Lyon;paris;strasbourg;lyon;oui
+Je suis strasbourgeois et je souhaite aller à Paris;paris;strasbourg;;oui
+Je suis parisien et j'aimerais aller à strasbourg;strasbourg;paris;;oui
+J'aimerais faire Paris Strasbourg en passant par Lyon;strasbourg;paris;lyon;oui
+J'aimerais partir de strasbourg pour aller à strasbourg;;;;non
+Hello, I want to go to Paris from Strasbourg;;;;non
